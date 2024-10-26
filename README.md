@@ -22,7 +22,7 @@ pip install -r requirements.txt
 - Overfitting
 - Keep test out of the training, since it will learn based on these samples.
 
-# Using CUDA
+## Using CUDA
 Select your OS, and select pip and select the latest CUDA: https://pytorch.org/get-started/locally/.
 Then download the corresponding CUDA toolkit from https://developer.nvidia.com/cuda-toolkit-archive.
 Then run the command showing on PyTorch after activating conda enviroment, e.g.
